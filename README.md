@@ -1,5 +1,5 @@
 # DWM-_-
-yes
+
 for installation just run:
 ```bash
 cd dwm
